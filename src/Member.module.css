@@ -1,0 +1,76 @@
+.app {
+    margin: 10px 30px;
+    padding: 10px;
+}
+.btndiv{
+    text-align: center;   
+}
+
+
+.btndiv button{
+    cursor: pointer;
+    border: 2px solid 	#c6e3eb;
+    border-radius: 50px;
+    background-color: 	#aee1f2;
+    padding: 15px 30px 15px;
+    margin: 5px 20px 30px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: #c5c7d5 1px 3px 5px;
+}
+
+.datalist {
+    /*    border: 3px solid rgb(167, 12, 105);
+*/
+    justify-content: center;
+    text-align: center;
+}
+.datalist{
+
+    border: 3px solid rgb(167, 12, 105);
+    max-width:fit-content;
+    min-width:fit-content;
+    display:contents;
+}
+
+.gen1div,
+.gen2div,
+.gen3div,
+.uproardiv {
+    display: flex;
+    justify-content: center;
+    margin-bottom:30px;
+}
+.gen1Title,.gen2Title,
+.gen3Title,.uproarTitle{
+    margin: 0;
+    font-weight:bold;
+    font-size: large;
+    padding: 10px;
+}
+.gen1Title{
+    background-color:#f9a3ae ;
+}
+.gen2Title
+{
+    background-color:#f9c2a3 ;
+}
+
+.gen3Title{
+    background-color:#badca8 ;
+}
+.uproarTitle{
+    background-color:#f7f0a3 ;
+}
+
+.data {
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.datalist img{
+    max-width: 250px;
+    min-width: 200px;
+
+}
