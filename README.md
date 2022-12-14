@@ -1,4 +1,14 @@
 # Link: https://web-holostars-wiki.pages.dev/
+## Use React framework to build a website introducing talents in a vtuber company called Holostars.
+## The techniques i used:
+- React Router
+- useState, useEffect
+- fetch api
+
+Last edited: 15/12/2022
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
